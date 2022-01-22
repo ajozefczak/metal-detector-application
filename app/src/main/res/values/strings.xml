@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Metalowy Geniusz</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_songs">Aktywność piosenek</string>
+    <string name="title_activity_calculate_tickets">Obliczanie biletów</string>
+    <string name="search_button">Wyszukanie piosenki</string>
+    <string name="plan_the_concert">Zaplanowany najbliższy koncert</string>
+    <string name="calculete_the_tickets">Oblicz ile biletów kupisz</string>
+    <string name="search_the_song">Wyszukiwanie piosenki</string>
+    <string name="song_title">Tytuł piosenki</string>
+    <string name="band_Name" >Zespół</string>
+    <string name="search_button_small">Wyszukaj</string>
+    <string name="date_of_recording">Data nagrania</string>
+    <string name="concert_Title">Ustaw koncert</string>
+    <string name="where_Is_Concert">Gdzie:</string>
+    <string name="when_Is_Concert" >Kiedy:</string>
+    <string name="save_button">zapisz</string>
+    <string name="your_Latest_Concert">Twój najbliższy koncert</string>
+    <string name="info_About">Informacje:</string>
+    <string name="date_Title">Data:</string>
+    <string name="empty_text">brak</string>
+    <string name="change_button">Zmień</string>
+    <string name="calculate_title">Obliczanie kosztu biletów</string>
+    <string name="cost_of_one_ticket">Cena 1 biletu</string>
+    <string name="how_much_tickets">Ile biletów</string>
+    <string name="calculate_button">Oblicz</string>
+    <string name="calculate_title2">Wyliczenia</string>
+    <string name="ticket_cost">Cena biletów:</string>
+</resources>

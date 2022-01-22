@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Next</string>
+    <string name="app_name">Metal Detector</string>
+    <string name="ticket_cost">Ticket price:</string>
+    <string name="calculate_title2">Calculations</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="how_much_tickets">How much tickets</string>
+    <string name="cost_of_one_ticket">Price for one</string>
+    <string name="calculate_title">Calculate the tickets price</string>
+    <string name="change_button">Change</string>
+    <string name="empty_text">none</string>
+    <string name="date_Title">Date:</string>
+    <string name="info_About">Information:</string>
+    <string name="your_Latest_Concert">Your latest concert</string>
+    <string name="save_button">save</string>
+    <string name="when_Is_Concert">When:</string>
+    <string name="where_Is_Concert">Where:</string>
+    <string name="concert_Title">Set the concert</string>
+    <string name="date_of_recording">Date of recording</string>
+    <string name="search_button_small">Search</string>
+    <string name="band_Name">Band</string>
+    <string name="song_title">Title</string>
+    <string name="search_the_song">Search the song</string>
+    <string name="calculete_the_tickets">Calculate how much tickets you buy</string>
+    <string name="plan_the_concert">Plan the concert</string>
+    <string name="search_button">Search the song</string>
+    <string name="title_activity_calculate_tickets">Calculate the tickets</string>
+    <string name="title_activity_songs">Aktywność piosenki</string>
+</resources>
